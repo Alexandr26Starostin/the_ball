@@ -1,0 +1,128 @@
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\the_ball\the_ball.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x3564 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 30 2024 22:01:37, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 30 2024 22:01:44
+
+Run file:	C:\Users\Admin\Desktop\the_ball\the_ball.exe
+Directory:	C:\Users\Admin\Desktop\the_ball
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\the_ball\the_ball.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13385, функция: bool {anonymous}::TX::txEllipse(double, double, double, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x36B4 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 30 2024 23:55:30, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 30 2024 23:55:37
+
+Run file:	C:\Users\Admin\Desktop\the_ball\the_ball.exe
+Directory:	C:\Users\Admin\Desktop\the_ball
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\the_ball\the_ball.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13385, функция: bool {anonymous}::TX::txEllipse(double, double, double, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x251C (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 30 2024 23:55:30, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 00:00:09
+
+Run file:	C:\Users\Admin\Desktop\the_ball\the_ball.exe
+Directory:	C:\Users\Admin\Desktop\the_ball
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\the_ball\the_ball.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x1354 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 30 2024 23:55:30, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 03:31:02
+
+Run file:	C:\Users\Admin\Desktop\the_ball\the_ball.exe
+Directory:	C:\Users\Admin\Desktop\the_ball
+
+--------------------------------------------------
